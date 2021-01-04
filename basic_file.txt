@@ -1,0 +1,3 @@
+Clean Code: A Handbook of Agile Software Craftsmanship â€“ Robert C. Martin
+Spring in Action
+Marc Loy, Patrick Niemeyer, Daniel Leuck - Learning Java: An Introdution to Real-world Progarmming with Java, 5th Edition (2020)
