@@ -1,0 +1,27 @@
+From fdb51400d656a4fb7cb0592fc6c067a4264c4993 Mon Sep 17 00:00:00 2001
+From: Yana Dziadkouskaya <yana.dziadkouskaya@gmail.com>
+Date: Tue, 5 Jan 2021 00:22:12 +0300
+Subject: [PATCH] FirstFile correct 3 and 4 books
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 59611c2..440b8f1 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,8 +1,8 @@
+ 30 Books Everyone Should Read At Least Once In Their Lives
+ Старик и море Хеменгуэй
+ Мастер и Маргарита Булгаков
+-Harry Potter and the Philosopher's Stone, by J.K. Rowling.
+-The Lord of the Rings, by J.R.R. ...
++Колобок
++Теремок
+ The Great Gatsby, by F. Scott Fitzgerald. ...
+ Pride and Prejudice, by Jane Austen. ...
+ The Diary Of A Young Girl, by Anne Frank. ...
+-- 
+2.23.0.windows.1
+
